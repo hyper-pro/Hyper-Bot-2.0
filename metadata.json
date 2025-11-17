@@ -1,0 +1,5 @@
+{
+  "name": "Hyper Bot 2.0",
+  "description": "Hyper Bot 2.0 is an all-in-one AI-powered application for creative tasks. Features a conversational chat, an image generator, a text summarizer, and a recipe generator, all powered by Google's Gemini API.",
+  "requestFramePermissions": []
+}
